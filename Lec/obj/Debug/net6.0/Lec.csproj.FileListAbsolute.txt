@@ -1,0 +1,15 @@
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.csproj.AssemblyReference.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.AssemblyInfoInputs.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.AssemblyInfo.cs
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.csproj.CoreCompileInputs.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\bin\Debug\net6.0\Lec.exe
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\bin\Debug\net6.0\Lec.deps.json
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\bin\Debug\net6.0\Lec.runtimeconfig.json
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\bin\Debug\net6.0\Lec.dll
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\bin\Debug\net6.0\Lec.pdb
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.dll
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\refint\Lec.dll
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.pdb
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\Lec.genruntimeconfig.cache
+C:\Users\Громов Артём\Desktop\Артем\Обучение\Lec\obj\Debug\net6.0\ref\Lec.dll
